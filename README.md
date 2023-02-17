@@ -1,4 +1,4 @@
-# TeamVSTeamVehicleSpawn
+# Team VS Team Vehicle Spawn
 >Initially will be created as a single player script then will port to multi player:
 
 - Establish an area on Stratis Air Base for the "playing area" approx 650 x 650m
